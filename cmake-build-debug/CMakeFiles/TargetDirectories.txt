@@ -1,0 +1,3 @@
+/Users/fredericklofthouse/Developer/Mapping/cmake-build-debug/CMakeFiles/Mapping.dir
+/Users/fredericklofthouse/Developer/Mapping/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fredericklofthouse/Developer/Mapping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
